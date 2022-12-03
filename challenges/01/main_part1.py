@@ -1,7 +1,7 @@
 
 
 INPUT_FILE = "input.txt"
-OUTPUT_FILE = "output.txt"
+OUTPUT_FILE = "output_part1.txt"
 
 input = ""
 
